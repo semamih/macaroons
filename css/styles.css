@@ -480,7 +480,7 @@ input::placeholder {
 .message::after {
     content: '';
     position: absolute;
-
+    right: -14px;
     top: 50%;
     transform: translateY(-50%);
     width: 0;
